@@ -1,6 +1,6 @@
 name: cloudsandsky
 favicon: null
-layout_spectrum: 0.8111024028621614
+layout_spectrum: 0
 typography_spectrum: 0.2800677828490734
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.7591409666929394
+  brandStrength: 0.1875
   lightness: 0.8435807551722974
   saturation: 0.7095276128966361
   rhythmicContrast: 0.2655257717706263
