@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.7095276128966361
   brandStrength: 0.1875
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: cloudsandsky
 favicon: null
+name: cloudsandsky
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.2800677828490734
-layout_spectrum: 0.6344086
+layout_spectrum: 0.9820789
