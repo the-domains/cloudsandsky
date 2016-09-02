@@ -1,8 +1,34 @@
-name: cloudsandsky
-favicon: null
-layout_spectrum: 0.50131
 typography_spectrum: 0.3369175
-title: cloudsandsky
+color:
+  brandColors:
+    - '#f7f7f7'
+    - '#191919'
+    - '#9c9c9a'
+    - '#2e667f'
+    - '#dfc96a'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50131
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cloudsandsky
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: menu 2
+    id: 9b2e68c4-2e04-4650-88ff-3c202e65dbfa
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#f7f7f7'
-    - '#191919'
-    - '#9c9c9a'
-    - '#2e667f'
-    - '#dfc96a'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+title: cloudsandsky
 purpose: []
